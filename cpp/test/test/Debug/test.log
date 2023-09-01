@@ -1,0 +1,19 @@
+﻿  AVLtree.cpp
+D:\DESK\files\data_structure\cpp\json.h(202,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\DESK\files\data_structure\cpp\AVLtree.cpp(12,1): warning C4005: “error”: 宏重定义
+D:\DESK\files\data_structure\cpp\json.h(8): message : 参见“error”的前一个定义
+D:\DESK\files\data_structure\cpp\AVLtree.cpp(197,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\DESK\files\data_structure\cpp\AVLtree.cpp(223): message : 查看对正在编译的函数 模板 实例化“void drawTree<int>(AVLtreeNode<T> *,int,int,int)”的引用
+          with
+          [
+              T=int
+          ]
+D:\DESK\files\data_structure\cpp\AVLtree.cpp(200,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\DESK\files\data_structure\cpp\AVLtree.cpp(200,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\DESK\files\data_structure\cpp\AVLtree.cpp(200,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\DESK\files\data_structure\cpp\AVLtree.cpp(200,9): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\DESK\files\data_structure\cpp\AVLtree.cpp(202,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\DESK\files\data_structure\cpp\AVLtree.cpp(202,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\DESK\files\data_structure\cpp\AVLtree.cpp(202,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\DESK\files\data_structure\cpp\AVLtree.cpp(202,9): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  test.vcxproj -> D:\DESK\files\data_structure\cpp\test\Debug\test.exe
